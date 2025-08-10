@@ -5,3 +5,6 @@
 2장 : 빅오, 벤치마킹, 추상 데이터 타입(Abstact Data Type, ADT)  
 
 3장 : 동적 배열(Dynamin Array), 지역성의 원리(principle of locality), 캐시(cache)  
+
+4장 : 연결 리스트(Linked List) 구현  
+
